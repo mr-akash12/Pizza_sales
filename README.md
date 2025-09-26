@@ -1,6 +1,10 @@
 An end-to-end sales analysis project using SQL, Excel, and Power BI
 # 🍕 Pizza Sales Dashboard
 
+📌 Project Description
+
+This project focuses on creating an interactive dashboard to analyze pizza sales data. The goal is to provide meaningful insights into sales performance, customer preferences, and business trends. By visualizing sales data, business owners and managers can make data-driven decisions to increase revenue, optimize inventory, and identify top-performing products.
+
 ## 📊 Overview
 This project combines **SQL, Excel, and Power BI** to analyze pizza sales.  
 The goal is to track key performance indicators (KPIs), identify customer preferences, and highlight top- and bottom-performing pizzas using dummy sales data.
